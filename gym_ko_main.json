@@ -1,0 +1,978 @@
+[
+    {
+    "number": "001",
+    "name": "Pewter Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/001_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/001_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Normal"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "002",
+    "name": "Cerulean Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/002_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/002_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Normal"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+        "number": "003",
+        "name": "Vermilion Gym",
+        "imageUrl": "https://ettet1000.github.io/images_gym_en/003_1.png",
+        "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/003_1.png",
+        "sprites": {
+        "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+        "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+        "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+        "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+        "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+        },
+        "types": ["Normal"],
+        "specie": "Seed",
+        "generation": "GENERATION_I"
+        },
+    {
+    "number": "004",
+    "name": "Celadon Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/004_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/004_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Normal"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "005",
+    "name": "Fuchsia Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/005_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/005_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Normal"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+        "number": "006",
+        "name": "Saffron Gym",
+        "imageUrl": "https://ettet1000.github.io/images_gym_en/006_1.png",
+        "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/006_1.png",
+        "sprites": {
+        "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+        "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+        "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+        "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+        "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+        },
+        "types": ["Normal"],
+        "specie": "Seed",
+        "generation": "GENERATION_I"
+        },
+        {
+            "number": "007",
+            "name": "Cinnabar Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/007_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/007_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Normal"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "008",
+            "name": "Viridian Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/008_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/008_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Normal"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "009",
+            "name": "Violet Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/009_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/009_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "010",
+            "name": "Azalea Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/010_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/010_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "011",
+            "name": "Goldenrod Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/011_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/011_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "012",
+            "name": "Ecruteak Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/012_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/012_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "013",
+            "name": "Cianwood Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/013_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/013_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "014",
+            "name": "Olivine Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/014_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/014_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "015",
+            "name": "Mahogany Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/015_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/015_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "016",
+            "name": "Blackthorn Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/016_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/016_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Fire"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "017",
+            "name": "Rustboro Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/017_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/017_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "018",
+            "name": "Dewford Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/018_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/018_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "019",
+            "name": "Mauville Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/019_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/019_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "020",
+            "name": "Lavaridge Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/020_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/020_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "021",
+            "name": "Petalburg Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/021_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/021_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "022",
+            "name": "Fortree Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/022_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/022_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "023",
+            "name": "Mossdeep Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/023_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/023_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "024",
+            "name": "Sootopolis Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/024_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/024_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Water"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "025",
+            "name": "Oreburgh Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/025_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/025_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Grass"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+        {
+            "number": "026",
+            "name": "Eterna Gym",
+            "imageUrl": "https://ettet1000.github.io/images_gym_en/026_1.png",
+            "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/026_1.png",
+            "sprites": {
+            "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+            "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+            "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+            "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+            "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+            },
+            "types": ["Grass"],
+            "specie": "Seed",
+            "generation": "GENERATION_I"
+            },
+    {
+    "number": "027",
+    "name": "Veilstone Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/027_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/027_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "028",
+    "name": "Pastoria Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/028_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/028_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "029",
+    "name": "Hearthome Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/029_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/029_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "030",
+    "name": "Canalave Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/030_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/030_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "031",
+    "name": "Snowpoint Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/031_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/031_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "032",
+    "name": "Sunyshore Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/032_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/032_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Grass"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "033",
+    "name": "Striaton Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/033_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/033_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "034",
+    "name": "Nacrene Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/034_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/034_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "035",
+    "name": "Aspertia Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/035_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/035_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "036",
+    "name": "Virbank Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/036_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/036_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "037",
+    "name": "Castelia Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/037_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/037_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "038",
+    "name": "Nimbasa Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/038_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/038_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "039",
+    "name": "Driftveil Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/039_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/039_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "040",
+    "name": "Mistralton Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/040_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/040_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "041",
+    "name": "Icirrus Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/041_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/041_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "042",
+    "name": "Opelucid Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/042_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/042_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "043",
+    "name": "Humilau Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/043_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/043_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Electric"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "044",
+    "name": "Santalune Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/044_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/044_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "045",
+    "name": "Cyllage Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/045_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/045_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "046",
+    "name": "Shalour Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/046_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/046_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "047",
+    "name": "Coumarine Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/047_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/047_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "048",
+    "name": "Lumiose Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/048_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/048_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "049",
+    "name": "Laverre Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/049_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/049_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "050",
+    "name": "Anistar Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/050_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/050_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "051",
+    "name": "Snowbelle Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/051_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/051_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Ice"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "052",
+    "name": "Turffield Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/052_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/052_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "053",
+    "name": "Hulbury Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/053_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/053_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "054",
+    "name": "Motostoke Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/054_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/054_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "055",
+    "name": "Stow-on-Side Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/055_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/055_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "056",
+    "name": "Stow-on-Side Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/056_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/056_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "057",
+    "name": "Ballonlea Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/057_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/057_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "058",
+    "name": "Circhester Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/058_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/058_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "059",
+    "name": "Circhester Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/059_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/059_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "060",
+    "name": "Spikemuth Gym",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/060_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/060_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    },
+    {
+    "number": "061",
+    "name": "Hammerlocke Stadium",
+    "imageUrl": "https://ettet1000.github.io/images_gym_en/061_1.png",
+    "thumbnailUrl": "https://ettet1000.github.io/images_gym_en/061_1.png",
+    "sprites": {
+    "mainSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_main.png",
+    "frontAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_animated.gif",
+    "backAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_animated.gif",
+    "frontShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_front_shiny_animated.gif",
+    "backShinyAnimatedSpriteUrl": "https://pokedex.alansantos.dev/assets/pokemons/sprites/001/001_back_shiny_animated.gif"
+    },
+    "types": [ "Poison"],
+    "specie": "Seed",
+    "generation": "GENERATION_I"
+    }
+]
